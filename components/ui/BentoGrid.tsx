@@ -8,6 +8,7 @@ import { useState } from 'react';
 import animationData from '@/data/confetti.json';
 import MagicButton from './MagicButton';
 import { IoCopyOutline } from 'react-icons/io5';
+import LottieAnimation from './zenLottie';
 
 export const BentoGrid = ({
   className,
@@ -72,6 +73,15 @@ export const BentoGridItem = ({
               src={img}
               alt={img}
               className={cn(imgClassName, 'object-cover, object-center')}
+            />
+          )}
+          {id === 1 && (
+            <LottieAnimation
+              url="https://lottie.host/fd4b67f9-1bf2-4cec-b302-4b788a30db91/QM96R62n2K.json"
+              className={cn(
+                imgClassName,
+                'object-cover, object-center, opacity-40'
+              )}
             />
           )}
         </div>
