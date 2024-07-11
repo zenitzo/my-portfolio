@@ -70,7 +70,7 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: 'Zenwave - Modern UI/UX website',
+    title: 'Modern UI/UX website',
     des: 'This project showcases modern trends, seamless animations, and an exceptional user experience.',
     img: '/zenwave.png',
     iconLists: ['/re.svg', '/tail.svg', '/ts.svg', '/three.svg', '/gsap.svg'],
