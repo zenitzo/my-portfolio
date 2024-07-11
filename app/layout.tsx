@@ -18,22 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" type="image/png" sizes="16x16" href="/Z-4.png" />
-        <link rel="icon" type="image/png" sizes="32x32" href="/Z-4.png" />
-        <link rel="icon" type="image/png" sizes="48x48" href="/Z-4.png" />
-        <link rel="icon" type="image/png" sizes="64x64" href="/Z-4.png" />
-        <link
-          rel="icon"
-          type="image/png"
-          sizes="128x128"
-          href="/Z-4-128x128.png"
-        />
-        <link
-          rel="icon"
-          type="image/png"
-          sizes="256x256"
-          href="/Z-4-256x256.png"
-        />
+        <link rel="icon" href="/Z-4.png" type="image/png" />
       </head>
       <body className={inter.className}>
         <ThemeProvider
