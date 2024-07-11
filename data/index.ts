@@ -75,7 +75,7 @@ export const projects = [
     img: '/zenwave.png',
     iconLists: ['/re.svg', '/tail.svg', '/ts.svg', '/three.svg', '/gsap.svg'],
     link: 'https://zenwaveai.netlify.app/',
-    linkText: 'Visit Zenwave',
+    linkText: 'Visit Zenwave !',
   },
   {
     id: 2,
