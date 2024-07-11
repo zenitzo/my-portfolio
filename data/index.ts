@@ -75,7 +75,7 @@ export const projects = [
     img: '/zenwave.png',
     iconLists: ['/re.svg', '/tail.svg', '/ts.svg', '/three.svg', '/gsap.svg'],
     link: 'https://zenwaveai.netlify.app/',
-    linkText: 'Visit Zenwave !',
+    linkText: 'Visit Zenwave',
   },
   {
     id: 2,
@@ -102,7 +102,7 @@ export const projects = [
     img: 'iphone.png',
     iconLists: ['/next.svg', '/tail.svg', '/ts.svg', '/three.svg', '/gsap.svg'],
     link: 'https://zens-iphone-clone.netlify.app',
-    linkText: '3D iPhone Model',
+    linkText: 'Visit 3D iPhone model',
   },
 ];
 
