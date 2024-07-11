@@ -23,7 +23,7 @@ const RecentProjects = () => {
                 <img
                   src={img}
                   alt={title}
-                  className="z-10 absolute h-full w-full object-cover object-center overflow-hidden rounded-3xl"
+                  className="z-10 absolute rounded-3xl"
                   // Project images above was added
                 />
               </div>
