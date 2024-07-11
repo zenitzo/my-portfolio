@@ -99,7 +99,7 @@ export const projects = [
     id: 4,
     title: 'Animated Apple Iphone 3D Website',
     des: 'Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..',
-    img: 'p1.svg',
+    img: 'iphone.png',
     iconLists: ['/next.svg', '/tail.svg', '/ts.svg', '/three.svg', '/gsap.svg'],
     link: 'https://zens-iphone-clone.netlify.app',
     linkText: '3D iPhone Model',
