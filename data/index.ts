@@ -91,7 +91,7 @@ export const projects = [
     title: 'Carepulse - Healthcare app',
     des: 'A healthcare management system, designed to streamline the tedious checkup process.',
     img: 'carepulse.png',
-    iconLists: ['/re.svg', '/tail.svg', '/ts.svg', '/three.svg', '/c.svg'],
+    iconLists: ['/next.svg', '/tail.svg', '/ts.svg', '/three.svg', '/gsap.svg'],
     link: 'https://carepulse-by-zen.vercel.app/',
     linkText: 'Carepulse',
   },
