@@ -132,7 +132,7 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: 'Front-end engineer',
+    title: 'Front-end Engineer',
     desc: 'I facilitated collaborative product design and development, improving communication between stakeholders and engineering teams, which streamlined project workflows and enhanced outcomes. I led a major front-end revamp of the CRM dashboard, contributing to $11 million in revenue in 2020. By implementing automated testing with Selenium, I achieved 90% code coverage and improved code quality.',
     className: 'md:col-span-2',
     thumbnail: '/exp4.svg',
