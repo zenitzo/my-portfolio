@@ -59,7 +59,7 @@ export const gridItems = [
   },
   {
     id: 6,
-    title: 'Looking to hire an Engineer?',
+    title: 'Are you looking to hire an Engineer?',
     description: '',
     className: 'lg:col-span-2 md:col-span-3 md:row-span-1',
     imgClassName: '',
@@ -95,7 +95,7 @@ export const projects = [
     img: 'carepulse.png',
     iconLists: ['/next.svg', '/tail.svg', '/ts.svg', '/three.svg', '/gsap.svg'],
     link: 'https://carepulse-by-zen.vercel.app/',
-    linkText: 'Carepulse',
+    linkText: 'Visit Carepulse',
   },
   {
     id: 4,
