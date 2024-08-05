@@ -111,29 +111,29 @@ export const projects = [
 export const workExperience = [
   {
     id: 1,
-    title: 'Frontend Engineer Intern',
-    desc: 'Assisted in the development of a web-based platform using React.js, enhancing interactivity.',
+    title: 'Freelance Engineer',
+    desc: 'Create responsive, user-centric interfaces. Manage end-to-end projects, utilizing apps like Appwrite for authentication and storage, and Sentry for performance monitoring. I also deploy and optimize applications on Vercel, ensuring high performance and reliability.',
     className: 'md:col-span-2',
     thumbnail: '/exp1.svg',
   },
   {
     id: 2,
-    title: 'Mobile App Dev - JSM Tech',
-    desc: 'Designed and developed mobile app for both iOS & Android platforms using React Native.',
+    title: 'Independent Contractor',
+    desc: 'I developed, maintained, and deployed high-quality code for client websites using HTML, CSS, Sass, JavaScript, and React, creating robust and user-friendly solutions. I also conducted thorough quality assurance testing to ensure cross-browser compatibility and mobile responsiveness, enhancing user accessibility and satisfaction.',
     className: 'md:col-span-2', // change to md:col-span-2
     thumbnail: '/exp2.svg',
   },
   {
     id: 3,
-    title: 'Freelance App Dev Project',
-    desc: 'Led the dev of a mobile app for a client, from initial concept to deployment on app stores.',
+    title: 'Lead Frontend Developer',
+    desc: 'Developed a Patient Management System using Next.js and React, featuring patient registration, appointment booking, and profile management with a responsive design via Tailwind CSS. Implemented admin controls for appointment management, integrated SMS notifications for real-time updates, and utilized Sentry for performance monitoring along with Appwrite for secure file management.',
     className: 'md:col-span-2', // change to md:col-span-2
     thumbnail: '/exp3.svg',
   },
   {
     id: 4,
-    title: 'Lead Frontend Developer',
-    desc: 'Developed and maintained user-facing features using modern frontend technologies.',
+    title: 'Front-end engineer',
+    desc: 'I facilitated collaborative product design and development, improving communication between stakeholders and engineering teams, which streamlined project workflows and enhanced outcomes. I led a major front-end revamp of the CRM dashboard, contributing to $11 million in revenue in 2020. By implementing automated testing with Selenium, I achieved 90% code coverage and improved code quality.',
     className: 'md:col-span-2',
     thumbnail: '/exp4.svg',
   },
