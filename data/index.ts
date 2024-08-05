@@ -148,7 +148,7 @@ export const socialMedia = [
   {
     id: 2,
     img: '/twit.svg',
-    url: 'https://twitter.com/npmzen',
+    url: '/SWEResume2024.pdf',
   },
   {
     id: 3,
