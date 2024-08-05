@@ -125,7 +125,7 @@ export const workExperience = [
   },
   {
     id: 3,
-    title: 'Lead Frontend Developer',
+    title: 'Lead Front-end Developer',
     desc: 'Developed a Patient Management System using Next.js and React, featuring patient registration, appointment booking, and profile management with a responsive design via Tailwind CSS. Implemented admin controls for appointment management, integrated SMS notifications for real-time updates, and utilized Sentry for performance monitoring along with Appwrite for secure file management.',
     className: 'md:col-span-2', // change to md:col-span-2
     thumbnail: '/exp3.svg',
