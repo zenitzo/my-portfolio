@@ -59,7 +59,7 @@ export const gridItems = [
   },
   {
     id: 6,
-    title: 'Are you looking to hire an Engineer?',
+    title: 'Reach out to me anytime 💭',
     description: '',
     className: 'lg:col-span-2 md:col-span-3 md:row-span-1',
     imgClassName: '',
