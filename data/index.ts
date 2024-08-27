@@ -111,29 +111,29 @@ export const projects = [
 export const workExperience = [
   {
     id: 1,
-    title: 'Freelance Engineer',
-    desc: 'Create responsive, user-centric interfaces. Manage end-to-end projects, utilizing apps like Appwrite for authentication and storage, and Sentry for performance monitoring. I also deploy and optimize applications on Vercel, ensuring high performance and reliability.',
+    title: '100Devs',
+    desc: 'Worked closely with a team of developers to design and build modern, responsive web applications, consistently adhering to best practices in coding and design. Developed full stack applications with an emphasis on semantic structure, optimizing for both accessibility and maintainability. Utilized agile methodologies, especially SCRUM, to manage projects efficiently, ensuring clear communication and fostering iterative development.',
     className: 'md:col-span-2',
     thumbnail: '/exp1.svg',
   },
   {
     id: 2,
-    title: 'Independent Contractor',
-    desc: 'I developed, maintained, and deployed high-quality code for client websites using HTML, CSS, Sass, JavaScript, and React, creating robust and user-friendly solutions. I also conducted thorough quality assurance testing to ensure cross-browser compatibility and mobile responsiveness, enhancing user accessibility and satisfaction.',
+    title: 'Freelance',
+    desc: 'I create and maintain scalable web apps using Next.js and React, focusing on both front-end and back-end development. My work involves implementing server-side rendering, API integration, and performance optimization for SEO. I design responsive user interfaces, manage state with Redux, and handle database interactions. I collaborate with global clients to deliver custom web solutions that meet their needs.',
     className: 'md:col-span-2', // change to md:col-span-2
     thumbnail: '/exp2.svg',
   },
   {
     id: 3,
-    title: 'Lead Front-end Developer',
-    desc: 'Developed a Patient Management System using Next.js and React, featuring patient registration, appointment booking, and profile management with a responsive design via Tailwind CSS. Implemented admin controls for appointment management, integrated SMS notifications for real-time updates, and utilized Sentry for performance monitoring along with Appwrite for secure file management.',
+    title: 'Independant Contractor',
+    desc: 'I developed responsive web apps using React.js, implemented Redux for state management, and optimized load times with code-splitting. I also integrated APIs, managed routing with React Router, and contributed to UI/UX improvements through animations and cross-browser testing.',
     className: 'md:col-span-2', // change to md:col-span-2
     thumbnail: '/exp3.svg',
   },
   {
     id: 4,
     title: 'Front-end Engineer',
-    desc: 'I facilitated collaborative product design and development, improving communication between stakeholders and engineering teams, which streamlined project workflows and enhanced outcomes. I led a major front-end revamp of the CRM dashboard, contributing to $11 million in revenue in 2020. By implementing automated testing with Selenium, I achieved 90% code coverage and improved code quality.',
+    desc: 'Developed and maintained responsive web applications with a focus on delivering high-quality user experiences. Collaborated with cross-functional teams to implement new features, optimized web performance, and ensured the applications met design and business goals. Wrote clean, maintainable code while staying up-to-date with industry trends and best practices, and actively participated in testing, debugging, and code reviews.',
     className: 'md:col-span-2',
     thumbnail: '/exp4.svg',
   },
@@ -148,7 +148,7 @@ export const socialMedia = [
   {
     id: 2,
     img: '/twit.svg',
-    url: '/SWEResume2024.pdf',
+    url: '/SWEResume.pdf',
   },
   {
     id: 3,
