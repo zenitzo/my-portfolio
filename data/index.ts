@@ -119,8 +119,8 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: 'Freelance',
-    desc: 'I create and maintain scalable web apps using Next.js and React, focusing on both front-end and back-end development. My work involves implementing server-side rendering, API integration, and performance optimization for SEO. I design responsive user interfaces, manage state with Redux, and handle database interactions. I collaborate with global clients to deliver custom web solutions that meet their needs.',
+    title: 'Founder & CEO',
+    desc: 'I take businesses to the next level by independently delivering custom web solutions. I create and maintain scalable web applications using Next.js and React, handling both front-end and back-end development. My work includes implementing server-side rendering, API integration, and performance optimization for SEO. I design responsive user interfaces, manage state with Redux, and handle database interactions. By collaborating closely with global clients, I ensure that each solution is uniquely tailored to meet their business needs.',
     className: 'md:col-span-2', // change to md:col-span-2
     thumbnail: '/exp2.svg',
   },
@@ -133,8 +133,8 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: 'Front-end Engineer',
-    desc: 'Developed and maintained responsive web applications with a focus on delivering high-quality user experiences. Collaborated with cross-functional teams to implement new features, optimized web performance, and ensured the applications met design and business goals. Wrote clean, maintainable code while staying up-to-date with industry trends and best practices, and actively participated in testing, debugging, and code reviews.',
+    title: 'Front-End Developer',
+    desc: 'Developed and maintained responsive web applications with a focus on delivering high-quality user experiences. Collaborated with cross-functional teams in an Agile environment to implement new features, optimize web performance, and ensure the applications met design and business goals. Wrote clean, maintainable code while staying up-to-date with industry trends and best practices, and actively participated in testing, debugging, and code reviews.',
     className: 'md:col-span-2',
     thumbnail: '/exp4.svg',
   },
