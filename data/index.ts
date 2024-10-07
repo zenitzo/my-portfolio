@@ -149,7 +149,7 @@ export const socialMedia = [
   {
     id: 2,
     img: '/twit.svg',
-    url: '/sweResume.pdf',
+    url: '/sweResume2.pdf',
   },
   {
     id: 3,
