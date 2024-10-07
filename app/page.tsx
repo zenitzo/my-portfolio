@@ -14,7 +14,7 @@ export default function Home() {
         <Hero />
         <Grid />
         <RecentProjects />
-        <Experience />
+        {/* <Experience /> */}
         <Footer />
       </div>
     </main>
